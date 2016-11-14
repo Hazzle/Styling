@@ -1,7 +1,10 @@
 # Styling
 
-1. How to scaffold a layout with:
+1. Display block vs inline-block
+2. How to scaffold a layout with:
    - Sticky footer
    - Horizontal centering
    - Vertical centering
-2. Overflow
+3. Flexboxes
+   - Flex-direction
+4. Transitions
