@@ -1,6 +1,6 @@
 # Styling
 
-1. How to scaffold a layout with:
+1. How to scaffold a tabular layout structure with:
    - Sticky footer
    - Horizontal centering
    - Vertical centering
